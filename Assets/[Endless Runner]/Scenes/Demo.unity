@@ -25,7 +25,7 @@ RenderSettings:
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
   m_AmbientMode: 0
-  m_SkyboxMaterial: {fileID: 2100000, guid: da976b1a4f7ebb949b0f71341e4f1821, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 88ec9a13802800449aaf825aff3aadc7, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -4130,6 +4130,7 @@ MonoBehaviour:
   m_fieldOfViewMultiplier: 10
   m_fieldOfViewLimit: 75
   m_horizontal_speed_factor: 2
+  m_numberofJumps: 0
 --- !u!4 &1082916796
 Transform:
   m_ObjectHideFlags: 0
@@ -4296,7 +4297,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 2100000, guid: f4fe87d90b5751d43b09a95669854e2b, type: 2}
+  - {fileID: 2100000, guid: ca695a7aa58635346ae56c45115faa70, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -4869,6 +4870,7 @@ Canvas:
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0

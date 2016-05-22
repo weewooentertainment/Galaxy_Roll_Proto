@@ -27,7 +27,7 @@ Material:
           name: _BumpMap
         second:
           m_Texture: {fileID: 0}
-          m_Scale: {x: 5.11999989, y: 5.11999989}
+          m_Scale: {x: 5.12, y: 5.12}
           m_Offset: {x: 0, y: 0}
       data:
         first:
@@ -41,7 +41,7 @@ Material:
           name: _ParallaxMap
         second:
           m_Texture: {fileID: 0}
-          m_Scale: {x: 5.11999989, y: 5.11999989}
+          m_Scale: {x: 5.12, y: 5.12}
           m_Offset: {x: 0, y: 0}
       data:
         first:
@@ -97,15 +97,15 @@ Material:
       data:
         first:
           name: _Cutoff
-        second: .5
+        second: 0.5
       data:
         first:
           name: _Shininess
-        second: .0839999989
+        second: 0.084
       data:
         first:
           name: _Parallax
-        second: .0199999996
+        second: 0.02
       data:
         first:
           name: _ZWrite
@@ -113,7 +113,7 @@ Material:
       data:
         first:
           name: _Glossiness
-        second: .5
+        second: 0.5
       data:
         first:
           name: _BumpScale
@@ -146,8 +146,8 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: .501960814, g: .501960814, b: .501960814, a: 1}
+        second: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
       data:
         first:
           name: _SpecColor
-        second: {r: .200000003, g: .200000003, b: .200000003, a: 1}
+        second: {r: 0.2, g: 0.2, b: 0.2, a: 1}
