@@ -47,6 +47,8 @@ namespace EndlessRunner
             ScreenFade.Close();
 
             GlobalVariables.Player.Reload();
+
+            UpdateCurrentScore(0);
         }
     }
 }
